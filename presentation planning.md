@@ -121,3 +121,28 @@ organizational: free, 4 plans from $25 - $200/month
 
 Education pack provides private repos for free
 
+
+
+
+
+
+
+        <section data-transition="linear">
+          <h3>GitHub's cost structure</h3>
+          <table class="mt3">
+            <tbody>
+              <tr>
+                <td>Basic level</td>
+                <td>Free; provides unlimited repositories and unlimited collaborators; no private repositories</td>
+              </tr>
+              <tr>
+                <td>Personal account</td>
+                <td>Basic level access plus up to 50 private repositories for up to $50/month</td>
+              </tr>
+              <tr>
+                <td>Organizational account</td>
+                <td>Basic level access plus up to 125 private repositories for up to $200/month</td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
