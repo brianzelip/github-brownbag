@@ -1958,11 +1958,13 @@ body {
     box-shadow: none;
 }
 
-.reveal svg {
+.reveal .svg-150 {
   height: 150px;
 }
 
-
+.reveal .svg-200 {
+  height: 200px;
+}
 
 
 /*# sourceMappingURL=bz.umb.css.map */
