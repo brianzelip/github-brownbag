@@ -1,17 +1,17 @@
 /**
  * UMB theme for reveal.js by Brian Zelip, 2014.
- * 
+ *
  * http://zelip.me
  */
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic|Merriweather+Sans:400,300,300italic,400italic,700,700italic);
 /**
  * UMB theme for reveal.js by Brian Zelip, 2014.
- * 
+ *
  * http://zelip.me
  */
 /*!
  * this file was originally /css/reveal.css
- * 
+ *
  */
 /*********************************************
  * RESET STYLES
@@ -1765,31 +1765,31 @@ body {
  *********************************************/
 .reveal .controls div.navigate-left,
 .reveal .controls div.navigate-left.enabled {
-  border-right-color: #231F20; }
+  border-right-color: #f14d68; }
 
 .reveal .controls div.navigate-right,
 .reveal .controls div.navigate-right.enabled {
-  border-left-color: #231F20; }
+  border-left-color: #f14d68; }
 
 .reveal .controls div.navigate-up,
 .reveal .controls div.navigate-up.enabled {
-  border-bottom-color: #231F20; }
+  border-bottom-color: #f14d68; }
 
 .reveal .controls div.navigate-down,
 .reveal .controls div.navigate-down.enabled {
-  border-top-color: #231F20; }
+  border-top-color: #f14d68; }
 
 .reveal .controls div.navigate-left.enabled:hover {
-  border-right-color: #f14d68; }
+  border-right-color: rgb(255, 210, 3); }
 
 .reveal .controls div.navigate-right.enabled:hover {
-  border-left-color: #f14d68; }
+  border-left-color: rgb(255, 210, 3); }
 
 .reveal .controls div.navigate-up.enabled:hover {
-  border-bottom-color: #f14d68; }
+  border-bottom-color: rgb(255, 210, 3); }
 
 .reveal .controls div.navigate-down.enabled:hover {
-  border-top-color: #f14d68; }
+  border-top-color: rgb(255, 210, 3); }
 
 /*********************************************
  * PROGRESS BAR
